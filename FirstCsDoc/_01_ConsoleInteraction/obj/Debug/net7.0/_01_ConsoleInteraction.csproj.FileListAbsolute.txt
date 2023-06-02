@@ -1,0 +1,15 @@
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.csproj.AssemblyReference.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.AssemblyInfoInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.AssemblyInfo.cs
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.csproj.CoreCompileInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/bin/Debug/net7.0/_01_ConsoleInteraction
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/bin/Debug/net7.0/_01_ConsoleInteraction.deps.json
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/bin/Debug/net7.0/_01_ConsoleInteraction.runtimeconfig.json
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/bin/Debug/net7.0/_01_ConsoleInteraction.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/bin/Debug/net7.0/_01_ConsoleInteraction.pdb
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/refint/_01_ConsoleInteraction.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.pdb
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/_01_ConsoleInteraction.genruntimeconfig.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_01_ConsoleInteraction/obj/Debug/net7.0/ref/_01_ConsoleInteraction.dll
