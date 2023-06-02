@@ -1,0 +1,15 @@
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/bin/Debug/net7.0/_02_Control&Looping
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/bin/Debug/net7.0/_02_Control&Looping.deps.json
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/bin/Debug/net7.0/_02_Control&Looping.runtimeconfig.json
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/bin/Debug/net7.0/_02_Control&Looping.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/bin/Debug/net7.0/_02_Control&Looping.pdb
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.csproj.AssemblyReference.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.AssemblyInfoInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.AssemblyInfo.cs
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.csproj.CoreCompileInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/refint/_02_Control&Looping.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.pdb
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/_02_Control&Looping.genruntimeconfig.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_02_Control&Loops/obj/Debug/net7.0/ref/_02_Control&Looping.dll

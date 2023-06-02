@@ -24,7 +24,7 @@ char tekKarakter = 'b' tek bir karakter icin yazabiliriz, tek tirnak kullanilir 
 */
 
 //reference types are any instantiable class as well as arrays
-//String, Scanner, Random, Die, int[], String[],Object etc.
+//String, Scanner, Random, Die, int[], String[],Object,Array etc.
 //reference variables store addresses
 /* 
 string cokKarakter = "merhaba" coklu metinler icin kullaniriz cift tirnak ile ifade ederiz
