@@ -8,7 +8,7 @@ namespace _02_Control
 {
     internal  class Control
 {
-    static void Main(string[] args)
+        static void ControlMethod()
     {
             // control ifadeleri birlestirmek icin &&(ve) , ||(veya) kullaniyoruz . bunlari & veya | ile de kullanabiliriz fakat kullanim farki vardir
             // cift && oldugunda 2 ifadeden ilki eger false donerse ikinci ifadeyi hic calistirmaz program.
@@ -46,11 +46,6 @@ namespace _02_Control
             //string.Format cok kullanilan bir methoddur, bunun icerisinde yazilan degerlerle islem yapilabilir
             string ad = "pasa";
             string.Format("benim adim {0},soyadim {1}, yasim{2}", ad, "ismihan", 28); //ilk metinde index numarasini veriyoruz sonrasinda sirayla o indexlere degerleri atiyoruz 
-
-
-
-            
-
 
 
     }
