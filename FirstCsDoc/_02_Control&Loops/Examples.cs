@@ -31,7 +31,7 @@ namespace _02_Control_Loops
             if (!donustuMu)
             {
                 Console.WriteLine("atama yapilirken bir hata olustu");
-                Console.Read();
+                Console.Read(); 
             }
             else
             {
