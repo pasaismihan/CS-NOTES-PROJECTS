@@ -3,13 +3,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Linq;
 using System.Collections.Generic;
+using _03_Processual;
 
-namespace _03_ProcessualMethods {
+namespace _03_Methods {
 
     internal class Methods
     {
     public static void Main(string[] args)
         {
+          _03_Processual.Processual.ProcessualProgramming();
         //parametreli method ornekleri ...
         // method kullanirken method ismi , parametre sayilari ve parametre tipi  tamamina method signature deriz 
         }
@@ -50,7 +52,6 @@ namespace _03_ProcessualMethods {
             {
 
                 toplam += sayilar[i];
-             
 
             }
             return toplam;
