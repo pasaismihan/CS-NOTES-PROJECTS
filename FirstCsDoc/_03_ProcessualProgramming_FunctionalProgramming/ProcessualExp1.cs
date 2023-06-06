@@ -95,5 +95,7 @@ namespace _03_Processual
             }
         }
     }
+    //kodlarimizi bu sekilde parcali methodlar halinde yaparsak bir sorunla karsilastigimizda soruna bagli olarak ilgili methodla islem yaparak cozebiliriz
+    //Ayrica bu kodlari hazir olusturdugumuz icin referansla baska classlara iletip oralarda da hazir kod olarak kullanabiliriz 
 }
 
