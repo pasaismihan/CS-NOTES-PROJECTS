@@ -1,0 +1,5 @@
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_04_IntroToOOP/obj/Debug/net7.0/_04_IntroToOOP(ClassObject).csproj.AssemblyReference.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_04_IntroToOOP/obj/Debug/net7.0/_04_IntroToOOP(ClassObject).GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_04_IntroToOOP/obj/Debug/net7.0/_04_IntroToOOP(ClassObject).AssemblyInfoInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_04_IntroToOOP/obj/Debug/net7.0/_04_IntroToOOP(ClassObject).AssemblyInfo.cs
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_04_IntroToOOP/obj/Debug/net7.0/_04_IntroToOOP(ClassObject).csproj.CoreCompileInputs.cache

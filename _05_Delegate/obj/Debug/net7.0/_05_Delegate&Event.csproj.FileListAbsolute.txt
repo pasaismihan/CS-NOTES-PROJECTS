@@ -1,0 +1,15 @@
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/bin/Debug/net7.0/_05_Delegate&Event
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/bin/Debug/net7.0/_05_Delegate&Event.deps.json
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/bin/Debug/net7.0/_05_Delegate&Event.runtimeconfig.json
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/bin/Debug/net7.0/_05_Delegate&Event.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/bin/Debug/net7.0/_05_Delegate&Event.pdb
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.csproj.AssemblyReference.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.AssemblyInfoInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.AssemblyInfo.cs
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.csproj.CoreCompileInputs.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/refint/_05_Delegate&Event.dll
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.pdb
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/_05_Delegate&Event.genruntimeconfig.cache
+/Users/pasa/CS-NOTES-PROJECTS/FirstCsDoc/_05_Delegate/obj/Debug/net7.0/ref/_05_Delegate&Event.dll
